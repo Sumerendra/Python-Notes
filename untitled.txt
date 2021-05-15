@@ -1,0 +1,148 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**********************************************************************************************************************************************************************************
+**********************************************************************************************************************************************************************************
+**********************************************************************************************************************************************************************************
+**********************************************************************************************************************************************************************************
+**********************************************************************************************************************************************************************************
+***Python Topics****
+Execute Python scripts
+Variables
+Strings
+Replace----  replace() method. The first parameter is the word to search, the second parameter specifies the new value.
+Join------ The join(sequence) method joins elements and returns the combined string. The join methods combines every element of the sequence.
+String find
+Split
+Random numbers
+Keyboard input
+
+**********************************************************************************************************************************************************************************
+**************************************************************Control structures**************************************************************************************************
+If statements
+For Loops
+While loop
+**********************************************************************************************************************************************************************************
+**************************************************************Data and operations*************************************************************************************************
+
+Functions
+List
+List operations
+Sort list
+Range function
+Dictionary
+Read file
+Write file
+Nested loops
+Slices
+Multiple return
+Scope
+time and date
+Try exception
+How to use pip and pypi
+
+**********************************************************************************************************************************************************************************
+**************************************************************OOPS Concept********************************************************************************************************
+Class
+Constructor
+Getter and setter
+Modules
+Inheritance
+Static method
+Iterable
+Class method
+Multiple Inheritance
+Advanced
+**********************************************************************************************************************************************************************************
+*****************************************************************ADVANCED*********************************************************************************************************
+Virtualenv
+Enumerate
+Pickle
+Regular Expressions
+JSON
+Read JSON file
+Decorators
+Web server
+Audio
+Play Sound
+Text to speech
+Convert MP3 to WAV
+Transcribe audio
+Tkinter
+Tkinter
+Tkinter button
+Tkinter menu
+Tkinter label
+Tkinter image
+Tkinter canvas
+tkinter checkbox
+tkinter entry
+tkinter filedialog
+tkinter frame
+tkinter listbox
+tkinter messagebox
+tkinter radiobutton
+tkinter scale
+Plotting
+Matplotlib Bar Chart
+Matplotlib Line Chart
+Seaborn Distplot
+Seaborn barplot
+Seaborn boxplot
+Seaborn heatmap
+Seaborn line plot
+Seaborn pairplot
+Seaborn palette
+Seaborn pandas
+Seaborn scatterplot
+Plotly
+PyQt
+PyQt
+Install pyqt
+PyQt Hello World
+PyQt Buttons
+PyQt QMessageBox
+PyQt grid
+QLineEdit
+PyQt QPixmap
+PyQt Combobox
+QCheckBox
+QSlider
+Progressbar
+PyQt table
+QVBoxLayout
+PyQt style
+Compile PyQt to exe
+QDial
+Qcheckbox
+Pyqt-radiobutton
+Pyqt-groupbox
+Pyqt-tooltip
+PyQt toolbox
+PyQt toolbar
+PyQt menubar
+PyQt tabwidget
+PyQt auto complete
+PyQt list box
+PyQt input dialog
+Qt designer python
